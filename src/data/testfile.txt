@@ -1,0 +1,7 @@
+The anomaly database has three tables: testdata_hour, testdata and input_to_map.
+
+testdata is the daily summary of the cell site data and goes back 6 months.  Testdata_hour is 30 days of data for each hour.  Same columns in both tables, the only difference is hourly vs daily.
+
+See testdata.xlsx for descriptions of all the fields.
+
+Input_to_map has cell site names and locations.
